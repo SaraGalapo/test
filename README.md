@@ -1,2 +1,9 @@
 # PROJECT BACKGROUND HERE
-<img src="profile.jpeg" width="200" height= "280">
+
+## PROJECT 1
+
+## PROJECT 2
+
+## PROJECT 3
+
+## PROJECT 4
